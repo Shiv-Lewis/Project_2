@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToyCompany>
+  <Raw_Material>
+    <Raw_Material_ID>100</Raw_Material_ID>
+    <Supplier_ID>1475</Supplier_ID>
+    <Material_Type>Wood</Material_Type>
+    <Unit_Cost>100</Unit_Cost>
+  </Raw_Material>
+  <Raw_Material>
+    <Raw_Material_ID>101</Raw_Material_ID>
+    <Supplier_ID>2635</Supplier_ID>
+    <Material_Type>Clay</Material_Type>
+    <Unit_Cost>75</Unit_Cost>
+  </Raw_Material>
+  <Raw_Material>
+    <Raw_Material_ID>102</Raw_Material_ID>
+    <Supplier_ID>1258</Supplier_ID>
+    <Material_Type>Paper</Material_Type>
+    <Unit_Cost>86</Unit_Cost>
+  </Raw_Material>
+  <Raw_Material>
+    <Raw_Material_ID>103</Raw_Material_ID>
+    <Supplier_ID>1250</Supplier_ID>
+    <Material_Type>Plastic</Material_Type>
+    <Unit_Cost>142</Unit_Cost>
+  </Raw_Material>
+  <Raw_Material>
+    <Raw_Material_ID>104</Raw_Material_ID>
+    <Supplier_ID>1475</Supplier_ID>
+    <Material_Type>Plastic</Material_Type>
+    <Unit_Cost>120</Unit_Cost>
+  </Raw_Material>
+</ToyCompany>

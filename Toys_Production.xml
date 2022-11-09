@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToyCompany>
+  <Toys_Production>
+    <Toy_Production_ID>1 </Toy_Production_ID>
+    <Lot_ID> 2</Lot_ID>
+    <Toy_Name> Black Panther Toy</Toy_Name>
+    <Toy_Description> Marvel Legends Black Panther 6-inch Action Figure Collectible Toy</Toy_Description>
+    <Toy_Weight> 6 inches</Toy_Weight>
+    <IsQualityTested>Yes </IsQualityTested>
+  </Toys_Production>
+  <Toys_Production>
+    <Toy_Production_ID>2 </Toy_Production_ID>
+    <Lot_ID> 1</Lot_ID>
+    <Toy_Name> Gabby's Dollhouse </Toy_Name>
+    <Toy_Description>Purrfect Dollhouse 2-Foot Tall Playset with Sounds, 15 Pieces </Toy_Description>
+    <Toy_Weight> 5.38 inches</Toy_Weight>
+    <IsQualityTested> Yes</IsQualityTested>
+  </Toys_Production>
+  <Toys_Production>
+    <Toy_Production_ID> 3</Toy_Production_ID>
+    <Lot_ID> 3</Lot_ID>
+    <Toy_Name>Magic Mixies in Dolls </Toy_Name>
+    <Toy_Description>Magic Mixies Magical Misting Crystal Ball</Toy_Description>
+    <Toy_Weight>8 inches</Toy_Weight>
+    <IsQualityTested>No</IsQualityTested>
+  </Toys_Production>
+  <Toys_Production>
+    <Toy_Production_ID>4</Toy_Production_ID>
+    <Lot_ID>4</Lot_ID>
+    <Toy_Name>Sparkle Compound Collection</Toy_Name>
+    <Toy_Description>Make bright and shiny creations with Play-Doh Sparkle Compound</Toy_Description>
+    <Toy_Weight>12 Ounces</Toy_Weight>
+    <IsQualityTested>Yes</IsQualityTested>
+  </Toys_Production>
+  <Toys_Production>
+    <Toy_Production_ID>5</Toy_Production_ID>
+    <Lot_ID>2</Lot_ID>
+    <Toy_Name>FAO Schwarz Glow Brights Toy</Toy_Name>
+    <Toy_Description>FAO Schwarz Glow Brights Toy Plush LED with Sound Pink Llamacorn</Toy_Description>
+    <Toy_Weight> 77 Pounds</Toy_Weight>
+    <IsQualityTested> Yes</IsQualityTested>
+  </Toys_Production>
+  <Toys_Production>
+    <Toy_Production_ID>6</Toy_Production_ID>
+    <Lot_ID>5</Lot_ID>
+    <Toy_Name>Magic Mixies in Dolls </Toy_Name>
+    <Toy_Description>Magic Mixies Magical Misting Cauldron with Exclusive Interactive</Toy_Description>
+    <Toy_Weight>8 inches</Toy_Weight>
+    <IsQualityTested>No</IsQualityTested>
+  </Toys_Production>
+</ToyCompany>

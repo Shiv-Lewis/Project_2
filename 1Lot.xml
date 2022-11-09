@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToyCompany>
+  <Lot>
+    <Lot_ID>1</Lot_ID>
+    <Cost>250.63</Cost>
+    <Created_Date>14-05-2020</Created_Date>
+  </Lot>
+  <Lot>
+    <Lot_ID>2</Lot_ID>
+    <Cost>204.2</Cost>
+    <Created_Date>05-07-2021</Created_Date>
+  </Lot>
+  <Lot>
+    <Lot_ID>3</Lot_ID>
+    <Cost>286.24</Cost>
+    <Created_Date>02-04-2020</Created_Date>
+  </Lot>
+  <Lot>
+    <Lot_ID>4</Lot_ID>
+    <Cost>220.74</Cost>
+    <Created_Date>21-03-2020</Created_Date>
+  </Lot>
+  <Lot>
+    <Lot_ID>5</Lot_ID>
+    <Cost>295.47</Cost>
+    <Created_Date>26-11-2020</Created_Date>
+  </Lot>
+</ToyCompany>

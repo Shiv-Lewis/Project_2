@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToyCompany>
+  <Supplier>
+    <Supplier_ID>1250</Supplier_ID>
+    <Supplier_Name>Lego</Supplier_Name>
+    <Contact_Number>2073899400</Contact_Number>
+    <Address>Brand Exchange 3 Birchin Lane</Address>
+  </Supplier>
+  <Supplier>
+    <Supplier_ID>1258</Supplier_ID>
+    <Supplier_Name>Play-Doh</Supplier_Name>
+    <Contact_Number>7065612099</Contact_Number>
+    <Address>4687 Hart Country Lane</Address>
+  </Supplier>
+  <Supplier>
+    <Supplier_ID>1452</Supplier_ID>
+    <Supplier_Name>Frozen</Supplier_Name>
+    <Contact_Number>3042352022</Contact_Number>
+    <Address>3704 Tavern Place</Address>
+  </Supplier>
+  <Supplier>
+    <Supplier_ID>2635</Supplier_ID>
+    <Supplier_Name>Air Hogs</Supplier_Name>
+    <Contact_Number>2133198326</Contact_Number>
+    <Address>3298 Brannon Street</Address>
+  </Supplier>
+  <Supplier>
+    <Supplier_ID>1475</Supplier_ID>
+    <Supplier_Name>Playskool</Supplier_Name>
+    <Contact_Number>6262884707</Contact_Number>
+    <Address>3214 Rainbow Road</Address>
+  </Supplier>
+</ToyCompany>
